@@ -13,4 +13,9 @@
 ## 김예린
 - greenkmy012@gmail.com
 
+## 김시현
+- kimsih08180@gmail.com
+- 2020315021
+- GitHubID: KimShun
+
 ## 새치기
